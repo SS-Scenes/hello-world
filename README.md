@@ -1,2 +1,3 @@
 # hello-world
-Just some git refresher
+
+Thanks for checking out my github projects! I hope you find something that interests you!
